@@ -1,0 +1,71 @@
+.fishList{
+
+display: flex;
+flex-wrap:wrap;
+
+
+}
+.fishCard{
+    border:dotted 5px;
+
+
+}
+
+
+.top{
+    
+    display:flex;
+    
+    flex-wrap:column;
+   
+    border-radius: 10px;
+    margin:10px;
+
+}
+
+.infoBox{
+    border: dotted 5px;
+    border-radius: 10px;
+    align-self: start;
+    width:150px;
+    padding: 75px;
+    margin: 5px;
+    
+}
+
+.notTop{
+
+    display:flex;
+    border: dotted 5px;
+    justify-content: space-evenly;
+    
+}
+
+.fish__image{
+max-width: 150px;
+
+
+
+}
+
+.left{
+text-align: center;
+}
+
+.info{
+    
+    margin: 2px;
+
+;
+}
+.name{
+color:green;
+font-size:15px;
+
+
+
+
+}
+
+
+
